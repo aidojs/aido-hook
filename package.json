@@ -1,0 +1,21 @@
+{
+  "name": "aido-hook",
+  "version": "1.0.0",
+  "description": "A plugin to add external webhooks to Aido applications",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidojs/aido-hook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aidojs/aido-hook/issues"
+  },
+  "author": "Damien BUTY <dam.buty@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
